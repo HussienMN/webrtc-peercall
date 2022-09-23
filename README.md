@@ -1,4 +1,4 @@
 # webrtc-peercall
 
-See [Demo](https://hussienmn.github.io/webrtc-peercall/).
+[Live Example](https://hussienmn.github.io/webrtc-peercall/).
 
